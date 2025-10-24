@@ -38,6 +38,7 @@ I am an undergraduate student at the College of Computer Science and Technology,
 # Honors & Awards
 
 - National Scholarship (China), Academic Year 2023–2024
+- National Scholarship (China), Academic Year 2024–2025
 - First Prize, Jilin Province, China Undergraduate Mathematical Contest in Modeling (CUMCM), 2024
 
 <span class='anchor' id='academic-conferences'></span>
