@@ -1,0 +1,19 @@
+# 主导航（中文）
+main:
+  - title: "简介"
+    url: "/zh-cn/#about-me"
+
+  - title: "学历"
+    url: "/zh-cn/#education"
+
+  - title: "论文与专利"
+    url: "/zh-cn/#publications-and-patents"
+
+  - title: "荣誉奖项"
+    url: "/zh-cn/#honors-and-awards"
+
+  - title: "学术会议"
+    url: "/zh-cn/#academic-conferences"
+
+  - title: "工作与实习"
+    url: "/zh-cn/#work-and-internships"

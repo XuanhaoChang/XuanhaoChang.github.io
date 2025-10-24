@@ -1,0 +1,19 @@
+# main links (English)
+main:
+  - title: "About"
+    url: "/#about-me"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Publications & Patents"
+    url: "/#publications-and-patents"
+
+  - title: "Honors & Awards"
+    url: "/#honors-and-awards"
+
+  - title: "Academic Conferences"
+    url: "/#academic-conferences"
+
+  - title: "Work & Internships"
+    url: "/#work-and-internships"
